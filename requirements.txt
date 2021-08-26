@@ -1,0 +1,6 @@
+Pillow
+cv2
+pydub
+simpleaudio
+d3dshot
+valclient
